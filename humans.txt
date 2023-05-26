@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Brandon Meeker -- cool guy
 
 # THANKS
 
