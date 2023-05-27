@@ -9,7 +9,11 @@
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
+<<<<<<< HEAD
+			things stuff swag swga
+=======
 			swagomfdg
+>>>>>>> 247e55e (fb some trouble)
 		}
 	</style>
 	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
@@ -18,8 +22,13 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
+<<<<<<< HEAD
+			Im very epic
+			poopballs xDDDDD
+=======
 			Im very epic]
 			i dont eat assws!
+>>>>>>> 247e55e (fb some trouble)
 		</p>
 	</main>
 	<footer class="container">
