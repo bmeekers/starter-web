@@ -20,4 +20,4 @@ fork it and stuff
 
 ## Copyright 
 
-2014 git.training
+2014 git.training all rights epic
